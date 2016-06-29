@@ -1,0 +1,14 @@
+# latex build files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+ocaml-tptp/
+
+problems/
+problems-ladr/
+
+project.sublime-workspace
